@@ -1,0 +1,7 @@
+name: Just a blueprint
+description: some description
+version: '1.0'
+formatVersion: 1
+inputs: {}
+resources: {}
+
