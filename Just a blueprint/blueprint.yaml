@@ -1,5 +1,5 @@
 name: Just a blueprint
-description: some description
+description: some additional description
 version: '1.0'
 formatVersion: 1
 inputs: {}
