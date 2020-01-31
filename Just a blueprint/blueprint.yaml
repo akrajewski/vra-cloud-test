@@ -1,6 +1,6 @@
 name: Just a blueprint
-description: some additional description shared
-version: '2.0'
+description: some additional description shared 2
+version: '2.1'
 formatVersion: 1
 inputs: {}
 resources: {}
